@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" role="img" aria-label="GreyCells logo option 4">
+  <!-- horizontal wordmark with cell icon -->
+  <rect width="400" height="120" fill="transparent"/>
+  <g transform="translate(20,20)">
+    <rect width="80" height="80" rx="12" fill="#111827"/>
+    <rect x="12" y="12" width="56" height="56" rx="8" fill="#0f172a"/>
+    <rect x="26" y="26" width="28" height="28" rx="6" fill="#14b8a6"/>
+    <circle cx="64" cy="16" r="6" fill="#f97316"/>
+  </g>
+  <text x="150" y="70" fill="#0f172a" font-family="Inter, sans-serif" font-size="42" font-weight="700">GreyCells</text>
+  <text x="150" y="95" fill="#6b7280" font-family="Inter, sans-serif" font-size="12">Data-driven software engineering</text>
+</svg>
