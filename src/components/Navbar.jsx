@@ -10,7 +10,7 @@ export default function Navbar(){
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
         <NavLink to="/" className="flex items-center gap-2 hover:opacity-80 transition">
           <img src="/greycells/logo-2.svg" alt="GreyCells Logo" className="h-10 w-10" />
-          <span className="text-white font-bold text-lg hidden sm:inline">GreyCells</span>
+          <span className="text-white font-bold text-xl sm:text-2xl md:text-3xl hidden sm:inline">GreyCells</span>
         </NavLink>
 
         <ul className="hidden md:flex items-center gap-6">
