@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="GreyCells monochrome dark">
+  <rect width="200" height="200" fill="#0f172a" rx="20"/>
+  <g transform="translate(30,30)">
+    <path d="M10 70 A60 60 0 1 1 130 70" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+    <path d="M60 35 A45 45 0 1 0 120 90" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="95" cy="95" r="10" fill="#ffffff"/>
+  </g>
+</svg>
