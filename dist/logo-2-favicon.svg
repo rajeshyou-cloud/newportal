@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="GreyCells favicon">
+  <rect width="64" height="64" rx="10" fill="#0f172a"/>
+  <g transform="translate(8,8) scale(0.4)">
+    <path d="M10 70 A60 60 0 1 1 130 70" fill="none" stroke="#e6eef0" stroke-width="12" stroke-linecap="round"/>
+    <path d="M60 35 A45 45 0 1 0 120 90" fill="none" stroke="#14b8a6" stroke-width="10" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="95" cy="95" r="10" fill="#f97316"/>
+  </g>
+</svg>
