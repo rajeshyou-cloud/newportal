@@ -8,8 +8,8 @@ export default function Navbar(){
   return (
     <nav className="bg-primary text-light sticky top-0 z-50 shadow-lg">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <NavLink to="/" className="flex items-center gap-2 hover:opacity-80 transition">
-          <img src="/greycells/logo-2.svg" alt="GreyCells Logo" className="h-10 w-10" />
+        <NavLink to="/" className="flex items-center gap-3 hover:opacity-80 transition">
+          <img src="/greycells/logo-2.svg" alt="GreyCells Logo" className="h-12 w-12 sm:h-14 md:h-16 object-contain" />
           <span className="text-white font-bold text-xl sm:text-2xl md:text-3xl hidden sm:inline">GreyCells</span>
         </NavLink>
 
