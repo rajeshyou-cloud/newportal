@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
@@ -11,3 +12,15 @@ h1, h2, h3 {
 a {
   text-decoration: none;
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+>>>>>>> 25afc8f

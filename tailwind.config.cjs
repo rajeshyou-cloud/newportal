@@ -4,6 +4,7 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+<<<<<<< HEAD
     extend: {
       colors: {
         primary: "#0f172a",
@@ -15,6 +16,9 @@ module.exports = {
         sans: ['Inter', 'sans-serif'],
       },
     },
+=======
+    extend: {},
+>>>>>>> 25afc8f
   },
   plugins: [],
 };

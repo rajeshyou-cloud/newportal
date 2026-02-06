@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-=======
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
->>>>>>> 25afc8f
 
 export default defineConfig({
   plugins: [react()],
   base: '/greycells/',
-<<<<<<< HEAD
   build: {
     outDir: 'dist',
     sourcemap: false,
@@ -21,7 +15,4 @@ export default defineConfig({
       }
     }
   }
-});
-=======
 })
->>>>>>> 25afc8f
