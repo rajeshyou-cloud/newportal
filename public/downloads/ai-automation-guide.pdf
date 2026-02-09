@@ -12,27 +12,91 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 5 0 obj
-<< /Length 522 >>
+<< /Length 1775 >>
 stream
+0.060 0.090 0.160 rg
+0 702 612 90 re f
+0.080 0.720 0.650 rg
+0 697 612 5 re f
 BT
-/F1 18 Tf
-72 750 Td
+1.000 1.000 1.000 rg
+/F1 20 Tf
+48 734 Td
 (AI Automation Guide) Tj
-/F1 12 Tf
-0 -18 Td
-() Tj
-0 -18 Td
-(Overview: Practical AI automation to reduce manual work and scale operations.) Tj
-0 -18 Td
-(Quick Wins: lead routing, support triage, reporting automation.) Tj
-0 -18 Td
-(Use Cases: Sales, Support, Operations, Marketing.) Tj
-0 -18 Td
-(Checklist: objectives, data, tooling, HITL, logging, monitoring.) Tj
-0 -18 Td
-(Governance: access controls, PII handling, audit logs.) Tj
-0 -18 Td
-(Rollout: 0-30 discovery, 31-60 pilot, 61-90 scale.) Tj
+0.850 0.880 0.920 rg
+/F1 11 Tf
+48 714 Td
+(GreyCells Technologies) Tj
+ET
+BT
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 662 Td
+(Overview) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 644 Td
+(? Practical AI automation to reduce manual work, improve accuracy, and scale) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 630 Td
+(  operations.) Tj
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 606 Td
+(Quick Wins \(0?30 Days\)) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 588 Td
+(? Automate repetitive tasks: lead routing, support triage, reporting.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 570 Td
+(? Pilot one workflow and measure time saved + error reduction.) Tj
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 546 Td
+(High?Impact Use Cases) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 528 Td
+(? Sales: lead scoring, outreach personalization, meeting summaries.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 510 Td
+(? Support: ticket classification, response drafting, knowledge search.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 492 Td
+(? Operations: invoice matching, approvals, anomaly alerts.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 474 Td
+(? Marketing: content briefs, campaign analysis, SEO insights.) Tj
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 450 Td
+(Implementation Checklist) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 432 Td
+(? Define objectives and KPIs; map process + data sources.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 414 Td
+(? Select tooling; add human?in?the?loop for critical steps.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 396 Td
+(? Implement logging, monitoring, and governance controls.) Tj
+ET
+0.060 0.090 0.160 rg
+0 0 612 36 re f
+BT
+0.850 0.880 0.920 rg
+/F1 10 Tf
+48 12 Td
+(Contact: hello@greycellstech.com) Tj
 ET
 endstream
 endobj
@@ -47,5 +111,5 @@ xref
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-884
+2138
 %%EOF
