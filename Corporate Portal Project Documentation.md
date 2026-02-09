@@ -86,7 +86,7 @@ Routes are defined in `src/App.jsx`. Router base uses:
 
 This allows:
 - Dev: `/`
-- Production (GitHub Pages): `/GreyCellsTech/`
+- Production (GitHub Pages): `/newportal/`
 
 ---
 

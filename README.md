@@ -4,7 +4,7 @@ Corporate Website | Product Development - Digital Marketing - AI Automations
 
 [![Deploy Status](https://github.com/rajeshyou-cloud/greycells/actions/workflows/deploy.yml/badge.svg)](https://github.com/rajeshyou-cloud/greycells/actions/workflows/deploy.yml)
 
-Live Site: https://rajeshyou-cloud.github.io/GreyCellsTech/
+Live Site: https://rajeshyou-cloud.github.io/newportal/
 
 ---
 
@@ -69,9 +69,9 @@ Dev URL: `http://localhost:5173/`
 
 ## Key URLs
 
-- Website: https://rajeshyou-cloud.github.io/GreyCellsTech/
-- Contact: https://rajeshyou-cloud.github.io/GreyCellsTech/contact
-- Resources: https://rajeshyou-cloud.github.io/GreyCellsTech/resources
+- Website: https://rajeshyou-cloud.github.io/newportal/
+- Contact: https://rajeshyou-cloud.github.io/newportal/contact
+- Resources: https://rajeshyou-cloud.github.io/newportal/resources
 
 ---
 
