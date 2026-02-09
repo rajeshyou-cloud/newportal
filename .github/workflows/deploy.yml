@@ -21,10 +21,12 @@ jobs:
         run: npm i -g npm@10
 
       - name: Install dependencies
-        run: npm install --include=optional
+        run: npm install
 
-      - name: Ensure Rollup native binary
-        run: npm install @rollup/rollup-linux-x64-gnu --no-save
+      - name: Ensure Linux native binaries
+        run: |
+          npm install @esbuild/linux-x64 --no-save
+          npm install @rollup/rollup-linux-x64-gnu --no-save
 
       - name: Build
         run: node ./node_modules/vite/bin/vite.js build
