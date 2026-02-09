@@ -1,0 +1,39 @@
+GreyCells Technologies
+Product Development Checklist
+
+Discovery
+1) Problem statement and target user defined
+2) Market and competitor analysis completed
+3) Success metrics and KPIs agreed
+4) Stakeholder alignment and scope defined
+
+Strategy
+1) Product vision and roadmap drafted
+2) MVP scope defined with must-have features
+3) Pricing and go-to-market hypothesis set
+
+Design
+1) User journeys and wireframes created
+2) Clickable prototype validated with users
+3) Design system / UI kit selected
+
+Engineering
+1) Architecture and tech stack finalized
+2) CI/CD and environments set up
+3) Data model and APIs defined
+4) Security and compliance requirements identified
+
+Build
+1) Sprint plan and backlog prioritized
+2) QA plan defined (unit, integration, E2E)
+3) Analytics events defined
+4) Performance budget set
+
+Launch
+1) Monitoring and alerting configured
+2) Documentation and onboarding ready
+3) Beta feedback loop established
+4) Post-launch review scheduled
+
+Need a product partner?
+Email: hello@greycellstech.com
