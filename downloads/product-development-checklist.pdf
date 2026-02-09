@@ -12,27 +12,75 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 5 0 obj
-<< /Length 463 >>
+<< /Length 1274 >>
 stream
+0.060 0.090 0.160 rg
+0 702 612 90 re f
+0.080 0.720 0.650 rg
+0 697 612 5 re f
 BT
-/F1 18 Tf
-72 750 Td
+1.000 1.000 1.000 rg
+/F1 20 Tf
+48 734 Td
 (Product Development Checklist) Tj
-/F1 12 Tf
-0 -18 Td
-() Tj
-0 -18 Td
-(Discovery: problem statement, target user, market research.) Tj
-0 -18 Td
-(Strategy: MVP scope, roadmap, positioning.) Tj
-0 -18 Td
-(Design: journeys, wireframes, prototype validation.) Tj
-0 -18 Td
-(Engineering: architecture, CI/CD, API design.) Tj
-0 -18 Td
-(Build: backlog, QA plan, analytics events.) Tj
-0 -18 Td
-(Launch: monitoring, documentation, feedback loop.) Tj
+0.850 0.880 0.920 rg
+/F1 11 Tf
+48 714 Td
+(GreyCells Technologies) Tj
+ET
+BT
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 662 Td
+(Discovery) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 644 Td
+(? Problem statement, target user, and market research completed.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 626 Td
+(? Success metrics agreed with stakeholders.) Tj
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 602 Td
+(Strategy) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 584 Td
+(? MVP scope defined with must?have features.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 566 Td
+(? Roadmap and go?to?market hypotheses drafted.) Tj
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 542 Td
+(Design & Build) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 524 Td
+(? User journeys, wireframes, and prototype validation done.) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 506 Td
+(? Architecture, CI/CD, data model, and QA plan finalized.) Tj
+0.060 0.090 0.160 rg
+/F1 13 Tf
+48 482 Td
+(Launch) Tj
+0.000 0.000 0.000 rg
+/F1 11 Tf
+58 464 Td
+(? Monitoring, onboarding, and feedback loop in place.) Tj
+ET
+0.060 0.090 0.160 rg
+0 0 612 36 re f
+BT
+0.850 0.880 0.920 rg
+/F1 10 Tf
+48 12 Td
+(Contact: hello@greycellstech.com) Tj
 ET
 endstream
 endobj
@@ -47,5 +95,5 @@ xref
 trailer
 << /Size 6 /Root 1 0 R >>
 startxref
-825
+1637
 %%EOF
