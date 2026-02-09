@@ -1,19 +1,19 @@
-# 🚀 GreyCells Technologies - Complete Deployment Guide
+# GreyCells Technologies - Complete Deployment Guide
 
-**Live Site**: https://rajeshyou-cloud.github.io/greycells/
-**Repository**: https://github.com/rajeshyou-cloud/greycells
+Live Site: https://rajeshyou-cloud.github.io/greycells/
+Repository: https://github.com/rajeshyou-cloud/greycells
 
 ---
 
-## 📋 Table of Contents
-1. [Google Apps Script Backend Setup](#1-google-apps-script-backend)
-2. [Project Structure](#2-project-structure)
-3. [Local Development](#3-local-development)
-4. [Configuration Files](#4-configuration-files)
-5. [Core Components](#5-core-components)
-6. [All Pages](#6-pages)
-7. [GitHub Pages Deployment](#7-deployment)
-8. [Operations & Maintenance](#8-operations)
+## Table of Contents
+1. Google Apps Script Backend Setup
+2. Project Structure
+3. Local Development
+4. Configuration Files
+5. Core Components
+6. Pages
+7. GitHub Pages Deployment
+8. Operations and Maintenance
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### A. Create Google Sheet
 1. Go to https://sheets.google.com
-2. Create new spreadsheet: **GreyCells Leads**
+2. Create new spreadsheet: `GreyCells Leads`
 3. Copy Spreadsheet ID from URL:
    ```
    https://docs.google.com/spreadsheets/d/YOUR_SPREADSHEET_ID/edit
@@ -29,18 +29,17 @@
 
 ### B. Apps Script Code
 1. Go to Extensions > Apps Script
-2. Paste the complete code (see BACKEND_CODE.md in repo)
+2. Paste the complete code (see PROJECT_FILES.md in repo)
 3. Deploy:
    - Deploy > New deployment
    - Type: Web app
-   - Execute as: **Me**
-   - Access: **Anyone**
-4. **Copy Web App URL**: `https://script.google.com/macros/s/YOUR_ID/exec`
+   - Execute as: `Me`
+   - Access: `Anyone`
+4. Copy Web App URL: `https://script.google.com/macros/s/YOUR_ID/exec`
 
 ### C. Update Frontend
-Replace `YOUR_APPS_SCRIPT_WEB_APP_URL_HERE` in:
+Replace `APPS_SCRIPT_URL` in:
 - `src/components/ContactForm.jsx`
-- `src/pages/Landing.jsx` (if separate form)
 
 ---
 
@@ -120,39 +119,37 @@ npm run preview  # Test production build locally
 
 ## 4. Configuration Files
 
-See individual code blocks below for complete file contents.
+See individual code blocks in PROJECT_FILES.md for complete file contents.
 
 ---
 
 ## 5. Core Components
 
-All component code is documented in the `src/components/` directory.
-
 Key components:
-- **ContactForm.jsx**: Handles Google Sheets submission
-- **SEO.jsx**: React Helmet for meta tags
-- **Navbar.jsx**: Sticky navigation with CTAs
-- **Footer.jsx**: Company info + CTAs
+- ContactForm.jsx: Handles Google Sheets submission
+- SEO.jsx: React Helmet for meta tags
+- Navbar.jsx: Sticky navigation with CTAs
+- Footer.jsx: Company info + CTAs
 
 ---
 
 ## 6. Pages
 
 All 13+ pages implemented:
-- ✅ Home
-- ✅ Landing (dedicated conversion page)
-- ✅ Services
-- ✅ Industries
-- ✅ Case Studies
-- ✅ Process
-- ✅ About
-- ✅ Blog
-- ✅ Careers
-- ✅ Contact
-- ✅ Privacy Policy
-- ✅ Terms of Service
-- ✅ FAQs
-- ✅ Resources
+- Home
+- Landing (dedicated conversion page)
+- Services
+- Industries
+- Case Studies
+- Process
+- About
+- Blog
+- Careers
+- Contact
+- Privacy Policy
+- Terms of Service
+- FAQ
+- Resources
 
 ---
 
@@ -160,24 +157,24 @@ All 13+ pages implemented:
 
 ### GitHub Pages Setup
 1. Go to repo Settings > Pages
-2. Source: **Deploy from a branch**
-3. Branch: **gh-pages** / (root)
+2. Source: `Deploy from a branch`
+3. Branch: `gh-pages` / (root)
 4. Save
 
 ### GitHub Actions Workflow
-The workflow file `.github/workflows/deploy.yml` automatically:
+The workflow file `.github/workflows/deploy.yml`:
 1. Builds the project on every push to `main`
 2. Deploys to `gh-pages` branch
 3. Site goes live at: https://rajeshyou-cloud.github.io/greycells/
 
-**First deployment**:
+First deployment:
 ```bash
 git add .
 git commit -m "Initial deployment"
 git push origin main
 ```
 
-Wait 2-3 minutes, then visit your site!
+Wait 2-3 minutes, then visit your site.
 
 ---
 
@@ -203,7 +200,7 @@ All submissions trigger an email to: rajeshyou@gmail.com
 
 ---
 
-## 🎯 Success Checklist
+## Success Checklist
 
 - [ ] Google Apps Script deployed and tested
 - [ ] Web App URL added to ContactForm.jsx
@@ -222,13 +219,13 @@ All submissions trigger an email to: rajeshyou@gmail.com
 
 ---
 
-## 📞 Support
+## Support
 
-**Company**: GreyCells Technologies, Bangalore
-**Email**: hello@greycellstech.com
-**Phone**: +91 98807 74315
-**Book a Call**: https://calendar.app.google/31YgUYzPYVRUB5yR6
+Company: GreyCells Technologies, Bangalore  
+Email: hello@greycellstech.com  
+Phone: +91 98807 74315  
+Book a Call: https://calendar.app.google/31YgUYzPYVRUB5yR6
 
 ---
 
-*Last Updated: February 6, 2026*
+Last Updated: February 6, 2026
