@@ -5,9 +5,9 @@ import { FileText, Download, ExternalLink } from 'lucide-react';
 export default function Resources(){
   const base = import.meta.env.BASE_URL;
   const resources = [
-    { title: 'AI Automation Guide', type: 'TXT', size: '12 KB', href: `${base}downloads/ai-automation-guide.txt` },
-    { title: 'Product Development Checklist', type: 'TXT', size: '9 KB', href: `${base}downloads/product-development-checklist.txt` },
-    { title: 'Digital Marketing Strategy Template', type: 'TXT', size: '11 KB', href: `${base}downloads/digital-marketing-strategy-template.txt` }
+    { title: 'AI Automation Guide', type: 'PDF', size: '1 page', href: `${base}downloads/ai-automation-guide.pdf` },
+    { title: 'Product Development Checklist', type: 'PDF', size: '1 page', href: `${base}downloads/product-development-checklist.pdf` },
+    { title: 'Digital Marketing Strategy Template', type: 'PDF', size: '1 page', href: `${base}downloads/digital-marketing-strategy-template.pdf` }
   ];
 
   return (
