@@ -21,7 +21,7 @@ jobs:
         run: npm i -g npm@10
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       - name: Ensure Linux native binaries
         run: |
